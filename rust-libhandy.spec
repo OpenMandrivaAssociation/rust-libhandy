@@ -5,8 +5,8 @@
 %global crate libhandy
 
 Name:           rust-%{crate}
-Version:        0.5.0
-Release:        2%{?dist}
+Version:        0.11.1
+Release:        1%{?dist}
 Summary:        Rust bindings for libhandy
 
 # Upstream license specification: GPL-3.0-or-later
